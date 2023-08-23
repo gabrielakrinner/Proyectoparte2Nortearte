@@ -1,0 +1,19 @@
+.navbar{
+    padding: 20px;
+}
+.navbar .btn{
+    color: rgb(255, 128, 0);
+}
+.row {
+    background-color: rgba(243, 243, 236, 0.724);
+    padding: 20px;
+}
+
+h1{
+    color:rgb(58, 58, 201);
+    text-align: center;
+}
+
+p{
+    color: rgb(82, 80, 80);
+}
