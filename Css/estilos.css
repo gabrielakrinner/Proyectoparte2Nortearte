@@ -1,8 +1,17 @@
 .navbar{
     padding: 20px;
 }
+
+
+
+.img-navbar{
+    padding: 20px;
+    align-items: flex-start;
+}
 .navbar .btn{
     color: rgb(255, 128, 0);
+    background: rgba(243, 243, 236, 0.724);
+    
 }
 .row {
     background-color: rgba(243, 243, 236, 0.724);
