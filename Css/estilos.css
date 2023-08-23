@@ -1,5 +1,10 @@
 .navbar{
     padding: 20px;
+    list-style: none;
+}
+
+.navbar ul li{
+    display: inline-block;
 }
 
 .img-navbar{
@@ -43,6 +48,7 @@ h2{
 .btn{
     padding: 15 px;
     margin-top: 25px;
+    color: coral;
 }
 
 footer{
